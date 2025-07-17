@@ -1,4 +1,4 @@
-const API_KEY = 'YOUR_API_KEY_HERE'; // Replace with your Gemini API key https://aistudio.google.com/app/apikey
+const API_KEY = 'AIzaSyCKP3LWk4VcVlmnRqOfbBDCONnAZq8e5gg'; // Replace with your Gemini API key https://aistudio.google.com/app/apikey
 const MODEL = 'gemini-2.0-flash'; // Models and pricing https://ai.google.dev/gemini-api/docs/models https://ai.google.dev/gemini-api/docs/pricing
 const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent?key=${API_KEY}`;
 const MAX_TOKENS = 2000;

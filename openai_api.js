@@ -1,4 +1,4 @@
-const API_KEY = 'YOUR_API_KEY_HERE'; // Replace with your OpenAI API key https://platform.openai.com/settings/organization/api-keys
+const API_KEY = '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'; // Replace with your OpenAI API key https://platform.openai.com/settings/organization/api-keys
 const MODEL = 'gpt-4o-mini'; // Models and pricing https://platform.openai.com/docs/pricing
 const API_URL = 'https://api.openai.com/v1/chat/completions';
 const MAX_TOKENS = 2000;
